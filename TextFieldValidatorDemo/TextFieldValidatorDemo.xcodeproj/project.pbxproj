@@ -25,6 +25,7 @@
 		2C286DCE191735A5009415B1 /* YFValidator.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C286DCD191735A5009415B1 /* YFValidator.m */; };
 		2C286DD1191741CF009415B1 /* YFNumericValidator.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C286DD0191741CF009415B1 /* YFNumericValidator.m */; };
 		2C286DD519176683009415B1 /* YFRegularValidator.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C286DD419176683009415B1 /* YFRegularValidator.m */; };
+		2C286DD819179539009415B1 /* YFEmailValidator.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C286DD719179539009415B1 /* YFEmailValidator.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -65,6 +66,8 @@
 		2C286DD0191741CF009415B1 /* YFNumericValidator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YFNumericValidator.m; sourceTree = "<group>"; };
 		2C286DD319176683009415B1 /* YFRegularValidator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YFRegularValidator.h; sourceTree = "<group>"; };
 		2C286DD419176683009415B1 /* YFRegularValidator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YFRegularValidator.m; sourceTree = "<group>"; };
+		2C286DD619179539009415B1 /* YFEmailValidator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YFEmailValidator.h; sourceTree = "<group>"; };
+		2C286DD719179539009415B1 /* YFEmailValidator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YFEmailValidator.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -174,6 +177,8 @@
 				2C286DCD191735A5009415B1 /* YFValidator.m */,
 				2C286DD319176683009415B1 /* YFRegularValidator.h */,
 				2C286DD419176683009415B1 /* YFRegularValidator.m */,
+				2C286DD619179539009415B1 /* YFEmailValidator.h */,
+				2C286DD719179539009415B1 /* YFEmailValidator.m */,
 				2C286DCF191741CF009415B1 /* YFNumericValidator.h */,
 				2C286DD0191741CF009415B1 /* YFNumericValidator.m */,
 			);
@@ -280,6 +285,7 @@
 			files = (
 				2C286DA219173541009415B1 /* RCDAppDelegate.m in Sources */,
 				2C286D9E19173541009415B1 /* main.m in Sources */,
+				2C286DD819179539009415B1 /* YFEmailValidator.m in Sources */,
 				2C286DD1191741CF009415B1 /* YFNumericValidator.m in Sources */,
 				2C286DAB19173541009415B1 /* RCDDetailViewController.m in Sources */,
 				2C286DCB19173571009415B1 /* YFTextField.m in Sources */,

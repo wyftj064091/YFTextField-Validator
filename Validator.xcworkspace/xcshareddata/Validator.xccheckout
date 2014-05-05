@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E9279FDC-0CC1-43C6-A70A-18662CF8BD23</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Validator</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C4E0D9BC-08AA-431B-8A9B-9DDC95474BAD</key>
+		<string>https://github.com/wyftj064091/YFTextField-Validator.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Validator.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C4E0D9BC-08AA-431B-8A9B-9DDC95474BAD</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/wyftj064091/YFTextField-Validator.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C4E0D9BC-08AA-431B-8A9B-9DDC95474BAD</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C4E0D9BC-08AA-431B-8A9B-9DDC95474BAD</string>
+			<key>IDESourceControlWCCName</key>
+			<string>YFTextField+Validator</string>
+		</dict>
+	</array>
+</dict>
+</plist>

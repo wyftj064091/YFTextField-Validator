@@ -9,6 +9,7 @@
 #import "RCDDetailViewController.h"
 #import "YFTextField.h"
 #import "YFNumericValidator.h"
+#import "YFEmailValidator.h"
 
 @interface RCDDetailViewController ()
 @end
